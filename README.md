@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nabila Kader !
-I am a  frontend & wordpress developer by passion.My current focus is on the FrontEnd (Js,React) although I've also worked on the BackEnd(Laravel).I have also experince in mobile app development(Android).
+I am a  frontend & wordpress developer by passion.My current focus is on the FrontEnd (Js,React) although I've also worked on the BackEnd(Laravel).I have also experience in mobile app development(Android).
 
 - 🔭 I’m currently working on some client projects
 - 🌱 I’m currently learning react
