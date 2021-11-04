@@ -4,7 +4,7 @@ I am a  frontend & wordpress developer by passion.My current focus is on the Fro
 - 🔭 I’m currently working on some client projects
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Html5, Js, Css3, Wordpress, Bootstrap, Tailwind Css, react 
+- 💬 Ask me about Html5, Js, Css3, Wordpress, Bootstrap, Tailwind Css, React 
 - 📫 How to reach me: naveela.nab@gmail.com 
 
     
